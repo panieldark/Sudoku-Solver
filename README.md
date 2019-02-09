@@ -2,7 +2,7 @@
 
 Sudoku.java initializes a sample 9x9 sudoku puzzle, solves it, and prints the solved puzzle.
 
-### Takeaways from this experience
+## Takeaways from this experience
 1. Reinforced my understanding of recursive backtracking
 2. Exposure to (the never-ending) Java API  
 3. Created many new ideas for expansion (solve with dynamic programming/memoization?, sudoku-solver in python or scala, expand to read files of puzzle, create an Android Sudoku app, etc.)
