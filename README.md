@@ -8,7 +8,7 @@ Sudoku.java initializes a sample 9x9 sudoku puzzle, solves it, and prints the so
 Solves a Sudoku puzzle using recursive backtracking. just for fun / experimenting
 
 ### Sudoku Rules
-1. Objective: Fill in the whole 9x9 map with one set of numbers 1-9
+1. Objective: Fill in the whole 9x9 map with 9 unique sets of numbers 1-9
 2. Each row must have only one set of each number 1-9
 3. Each column must have only one set of each number 1-9
 4. Each 3x3 block must have only one set of each number 1-9
