@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-Sudoku.java initializes a sample 9x9 sudoku puzzle, solves it, and prints the final version.
+Sudoku.java initializes a sample 9x9 sudoku puzzle, solves it, and prints the solved puzzle.
 
 ## Description
 
