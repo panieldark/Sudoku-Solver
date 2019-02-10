@@ -18,7 +18,7 @@ Solves a Sudoku puzzle using recursive backtracking. just for fun / experimentin
 2. have a computer beat you at your favorite game
 
 ## Acknowledgements
-loosely based off of https://gist.github.com/ssaurel 's implementation. 
+Algorithm based off of https://gist.github.com/ssaurel 's implementation. 
 
 Inspired by my (not so) secret obsession - sudoku
 
